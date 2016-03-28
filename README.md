@@ -6,8 +6,9 @@ Esse é o Repositório para o Projeto de Engenharia de Software do Curso de Sist
 
 Sistema de avaliação de serviços(CRM)
 
-    Nosso projeto tem por foco implementar uma ferramenta de avaliação a partir de perguntas geradas pelo solicitante do serviço, buscando demonstrar um perfil de avaliações de usuarios posteriores do sistema.
-    Ferramenta web, que busca implementar uma forma de avaliar empresas e serviços, de forma simples e satisfatoria, gerando dados a partir de outros usuarios do proprio sistema.
+    Nosso projeto tem por foco implementar uma ferramenta de avaliação de serviços empresariais.
+    Essa ferramenta dará suporte a empresas que,fazendo uso da mesma, terão permissão para cadastrar perguntas nas quais seus clientes podem responder, assim as empresas poderão mensurar a satisfação de seus usuários.
+    O sistema funcionará online tanto a empresa quanto os seus usuários vão acessar pela rede.
 
     
     
@@ -15,5 +16,4 @@ Grupo é composto por:
 
   - Augusto Rodrigues de Lima (arl4@cin.ufpe.br)
   - Carlos Henrique do Nascimento Melo (chnm@cin.ufpe.br)
-
   - Pedro José de Souza Neto (pjsn@cin.ufpe.br)
